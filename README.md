@@ -1,6 +1,6 @@
 # Flutter Bottom navigator template
 
-![](https://i.imgur.com/iRz2eKhm.png)
+![](https://i.imgur.com/iRz2eKhl.png)
 
 ## Notes:
 - Clone and build the app.
